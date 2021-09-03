@@ -1,4 +1,4 @@
-# flappyPiazza
+# flappyPizza
 Flappy Birds Modellvariante
 FlapPyBird
 ===============
@@ -17,7 +17,7 @@ Anleitung (wie auf MacOS getestet)
 1. Klonen Sie das Repository:
 
    ```bash
-   $ git clone https://github.com/sourabhv/FlapPyBird
+   $ git clone https://github.com/allthetimeintheworld/flappyPiazza
    ```
 
    oder als zip herunterladen und entpacken.
@@ -52,8 +52,8 @@ Bildschirmfoto
 [pygame]: http://www.pygame.org
 [pipenv]: https://pipenv.readthedocs.io/en/latest/
 
-Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
-# flappyPiazza
+
+# flappyPizza
 Flappy Birds model variation
 FlapPyBird
 ===============
@@ -72,7 +72,7 @@ How-to (as tested on MacOS)
 1. Clone the repository:
 
    ```bash
-   $ git clone https://github.com/sourabhv/FlapPyBird
+   $ git clone https://github.com/allthetimeintheworld/flappyPiazza
    ```
 
    or download as zip and extract.
